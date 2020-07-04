@@ -8,4 +8,4 @@ User Data Analysis using Machine learning models
   2.Analyzing the dataset
   3.Train and test the dataset
   4.Data exploration 
-  5.Accuracy report is provided by confusion matrix,performance measure accuracy and visualizing the performance model.
+  5.Accuracy report is provided by confusion matrix,performance measure accuracy and visualizing the performance model
